@@ -1,2 +1,3 @@
 # fitness
-健身笔记
+
+- [各种图](./images/index.md)
